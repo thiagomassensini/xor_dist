@@ -91,3 +91,4 @@ data/*.npy
 *.aux
 *.log
 *.out
+TEORIA_XOR_DIST_MOTTA_2025.md
