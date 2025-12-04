@@ -1,5 +1,7 @@
 # XOR Distance Theorem for Twin Primes
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17821891.svg)](https://doi.org/10.5281/zenodo.17821891)
+
 A formal proof and computational verification of the exact identity relating Hamming distance to 2-adic valuation.
 
 ## Main Theorem

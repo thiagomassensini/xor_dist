@@ -8,6 +8,7 @@ authors:
     orcid: "https://orcid.org/0009-0002-3415-9805"
 date-released: "2025-12-04"
 version: "1.0.0"
+doi: "10.5281/zenodo.17821891"
 license: "MIT"
 repository-code: "https://github.com/thiagomassensini/xor_dist"
 keywords:
