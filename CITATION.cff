@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this theorem or dataset, please cite this release."
+title: "The XOR Distance Theorem for Twin Primes"
+authors:
+  - family-names: "Silva"
+    given-names: "Thiago Fernandes Motta Massensini"
+    affiliation: "Independent Researcher"
+    orcid: "https://orcid.org/0009-0002-3415-9805"
+date-released: "2025-12-04"
+version: "1.0.0"
+license: "MIT"
+repository-code: "https://github.com/thiagomassensini/xor_dist"
+keywords:
+  - twin primes
+  - Hamming distance
+  - binary representation
+  - 2-adic valuation
+  - number theory
+  - prime gaps
+abstract: "Formal proof and computational verification of the exact identity xor_dist(p,p+2) = v2(p+1), revealing an unexpected correspondence between bitwise XOR geometry and 2-adic number theory."
